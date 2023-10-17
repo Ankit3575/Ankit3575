@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ankit3575
 - 👀 I’m interested in software development and fullStack Web-Developer
-- 🌱 I’m currently learning php, java and javascript  language 
+- 🌱 I’m currently working in php technology 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
